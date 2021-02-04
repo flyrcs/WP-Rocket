@@ -1,0 +1,1 @@
+All of these resolution are gathered information in different websites. These are the resolution when installing WP-Rocket and has writing permission errors. If writing permission resolution resolves the issue. There is no need to disable the Apache Server Cache but just restart WP-Rocket. 
